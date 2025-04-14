@@ -1,0 +1,2 @@
+# Library-Management-System-Using-AWT-and-SWING-Components
+A Java-based **Library Management System** that enables librarians and borrowers to manage library resources efficiently. The system includes features for adding books, managing borrowers, viewing borrow records, calculating overdue fines, and more. It uses **MySQL** as the backend database and **Swing** for the graphical user interface (GUI).
