@@ -136,10 +136,10 @@ We welcome contributions to improve the system. To contribute:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Jetbrains License. See the `LICENSE` file for details.
 
 ## Authors
-- [Your Name](https://github.com/<your-username>)
+- (<Krushna2142>)
 
 ## Acknowledgments
 - Inspired by the needs of libraries to manage resources efficiently.
